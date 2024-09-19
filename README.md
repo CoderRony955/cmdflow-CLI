@@ -86,6 +86,9 @@ To use CMD_FLOW, simply run the command and pass in the desired command as an ar
 
 Contributions are welcome! If you'd like to add a new feature or command to CMD_FLOW, please fork this repository, make your changes, and submit a pull request.
 
+## License
+This project is licensed under the [MIT License](https://github.com/CoderRony955/cmdflow-CLI/blob/master/LICENSE) - see the LICENSE file for details.
+
 ## Acknowledgments
 
 - [Raunak](https://github.com/CoderRony955) for creating and maintaining CMD_FLOW.
